@@ -1,2 +1,2 @@
 #!/bin/bash
-./custom_script
+mkdir my_dir drwxr-x--x
