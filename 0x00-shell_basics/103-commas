@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | grep -E '^[^.]' | sort -V | tr '\n' ','; echo
+ls -amp
